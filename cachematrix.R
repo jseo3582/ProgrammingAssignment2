@@ -3,10 +3,10 @@
 ## 'makeCacheMatrix' function creates a matrix that can cache the input and its inverse.
 
 ## Write a short comment describing this function
-## 1. set the value of the matrix
-## 2. get the value of the matrix
-## 3. set the value of inverse of the matrix
-## 4. get the value of inverse of the matrix
+## 1. Set the value of the matrix
+## 2. Get the value of the matrix
+## 3. Set the value of inverse (of the matrix)
+## 4. Get the value of inverse (of the matrix)
 
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
